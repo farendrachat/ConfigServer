@@ -1,0 +1,2 @@
+# ConfigServer
+For externalizing configurations
